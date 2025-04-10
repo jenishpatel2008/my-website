@@ -26,3 +26,29 @@ footer {
     width: 100%;
     bottom: 0;
 }
+.logo {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 120px;
+    height: auto;
+}
+
+header {
+    position: relative;
+}
+.social-links {
+    margin-bottom: 10px;
+}
+
+.social-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.social-links img {
+    margin-right: 5px;
+}
